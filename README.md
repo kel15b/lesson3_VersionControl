@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Kelli LaBelle)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(https://kel15b.github.io/lesson3_VersionControl/)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned the history behing Git and how it evolved.)
+2. (I also learned the different Git commands and what they do within a Git program.)
+3. (Finally, I learned the different states that Git files go through.)
 
